@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606519906 source:/home/nashar/Desktop/c projects/client/client.cpp
+	<stdio.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<unistd.h>
+	<netinet/in.h>
+	<string.h>
+	<arpa/inet.h>
+	<vector>
+	<bits/stdc++.h>
+	<regex>
+
